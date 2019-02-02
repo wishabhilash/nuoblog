@@ -2,4 +2,6 @@ Vagrantfile
 *.log
 .venv
 .vagrant
-*pycache*
+__pycache__
+wishabhilashcreations*
+.DS_Store
